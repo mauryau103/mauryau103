@@ -1,10 +1,24 @@
 # Hi,There I'm Umesh👋
 
-<img align="left" width="47%" src ="https://github-readme-stats.vercel.app/api?username=mauryau103&show_icons=true&theme=radical">
+I'm a self-taught passionate BackEnd developer from India 🇮🇳
 
-<img align="left" width="47%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mauryau103&layout=compact)">
+**About me**
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
+- 💼 Software Engineer at [Neosoft Technologies](https://www.neosofttech.com/)
+
+- 📈 Built  RestFul Apis, Developed full fledged backend for project,worked on a project as a full stack development
+
+- ❤️ I love writing Java Code,Spring,SpringBoot,DSA and building Full Stack Project.
+
+- 💬 Ask me about anything [here](https://github.com/mauryau103/mauryau103/issues)
+
+
+
+
+| <a href="https://github.com/mauryau103/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mauryau103&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Umesh's github stats" /></a> | <a href="https://github.com/mauryau103/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauryau103&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
@@ -12,8 +26,9 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
