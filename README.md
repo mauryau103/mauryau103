@@ -14,7 +14,7 @@ I'm a self-taught passionate BackEnd developer from India 🇮🇳
 
 | <a href="https://github.com/mauryau103/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mauryau103&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Umesh's github stats" /></a> | <a href="https://github.com/mauryau103/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauryau103&layout=compact&theme=buefy&hide_border=true" /></a> |
 
-**Languages Skills**  
+**Languages And Tools**  
 
 <img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img align="left" alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -51,7 +51,7 @@ I'm a self-taught passionate BackEnd developer from India 🇮🇳
 <br/>  
 <br/>  
 
-**Social Connection**  
+**Connect with me**  
 
 <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 <img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
